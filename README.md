@@ -4,9 +4,15 @@
 ---
 
 ## 💫 About Me
-💻 Passionate frontend developer focused on building modern, responsive web applications.  
-🚀 Currently expanding into full stack development using the MERN stack.  
-🧠 I enjoy solving real-world problems and continuously improving my coding skills.  
+👨‍💻 Turning ideas into interactive web experiences  
+
+Frontend Developer focused on crafting clean UI and smooth UX.  
+Love working with React and modern JavaScript.  
+
+🔥 Currently learning: Full Stack Development  
+🚀 Building projects to level up every day  
+
+📈 Growth mindset | Consistency > Perfection  
 
 ---
 
@@ -49,8 +55,6 @@
 
 - 🔹 Portfolio Website – Personal portfolio to showcase my skills and projects  
 - 🔹 React Applications – Dynamic UI-based applications using React  
-- 🔹 API Projects – Backend integration and REST API-based apps  
-
 👉 More projects available in my repositories!
 
 ---
